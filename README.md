@@ -1,3 +1,10 @@
+Simple calculator created with React. This calculator evaluates expressions using a two stack method which allows it to run in O(n) time.
+
+[![one.jpg](https://i.postimg.cc/SNJPFJkY/one.jpg)](https://postimg.cc/GHnKv3Bb)
+
+[![two.jpg](https://i.postimg.cc/9MYwXdHm/two.jpg)](https://postimg.cc/bDdw32vW)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
